@@ -43,8 +43,16 @@
                   1
                 ],
                 [
-                  "Off",
+                  "WPM Bongo",
                   2
+                ],
+                [
+                  "Bongo",
+                  3
+                ],  
+                [
+                  "Off",
+                  4
                 ]
               ],
               "content": [
@@ -63,11 +71,19 @@
                 ],
                 [
                   "Time",
-                  1
+                   1
                 ],
                 [
+                  "WPM Bongo",
+                   2
+                ],
+                [
+                  "Bongo",
+                  3
+                ], 
+                [
                   "Off",
-                  2
+                  4
                 ]
               ],
               "content": [
